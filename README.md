@@ -10,6 +10,8 @@ This project controls 7 servo motors using a Raspberry Pi and a PCA9685 PWM driv
 - **Jumper Wires**
 
 ## Circuit Connection
+![image](https://github.com/user-attachments/assets/a778bbb2-d996-4a2a-8c0f-95562ea9340e)
+
 ### PCA9685 to Raspberry Pi:
 - **VCC (PCA9685) → 5V (Raspberry Pi)**
 - **GND (PCA9685) → GND (Raspberry Pi)**
